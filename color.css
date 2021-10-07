@@ -3,6 +3,7 @@ body{
 	margin: 0;
 	font-family: "Avenir";
 }
+
 .square{
 	width: 30%;
 	background: purple;
@@ -12,10 +13,12 @@ body{
 	border-radius: 15%;
 	transition: background 0.5s;
 }
+
 #container{
 	max-width: 600px;
 	margin: 20px auto;
 }
+
 h1{
 	color: white;
 	text-align: center;
