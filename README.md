@@ -1,4 +1,4 @@
-# RGBcolorgame
+# RGB Guessing Game
  Test your RGB color codin knowledge with this simple game.
  <br>
  Provided is a random code in (R,G,B) format and you have to guess what colour the given code refers to from the given 6 options.<br>
