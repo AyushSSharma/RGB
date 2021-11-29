@@ -7,3 +7,4 @@
 
  Check it our in link given below.
 https://ayushssharma.github.io/RGB/color.html
+ 
